@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Akshay Dinesh</h1>
-<h3 align="center">A passionate frontend developer transitioning into a full stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Akshay</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/akshaydinesh02" target="blank"><img src="https://img.shields.io/twitter/follow/akshaydinesh02?logo=twitter&style=for-the-badge" alt="akshaydinesh02" /></a> </p>
 
-- 🔭 I’m currently working at **MyLang, Bangalore**
+- 🔭 I’m currently working at **ViMo Software Development Pvt Ltd, Bengaluru**
 
-- 🌱 I’m currently learning **NodeJS, Express, MongoDB**
+- 🌱 I’m currently learning to **design and architect systems**
 
 - 👯 I’m looking to collaborate on **NodeJS projects**
 
-- 🤝 Checkout my work profile [Akshay-MyLang](https://github.com/akshaymylang)
+- 🤝 Checkout my work profile [Akshay-Work](https://github.com/akshaydwork)
 
-- 👨‍💻 All of my projects are available at [portfolio.exyoursize.fit](portfolio.exyoursize.fit)
+- 👨‍💻 All of my projects are available at [akshaydinesh.com](https://akshaydinesh.com/)
 
-- 💬 Ask me about **react, nextJS, firebase, tailwindCSS**
+- 💬 Ask me about **Full stack Development**
 
 - 📫 How to reach me **akshay5632@gmail.com**
 
