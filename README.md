@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning to **design and architect systems**
 
-- 👯 I’m looking to collaborate on **NodeJS projects**
+- 👯 I’m looking to collaborate on **Full Stack projects**
 
 - 🤝 Checkout my work profile [Akshay-Work](https://github.com/akshaydwork)
 
